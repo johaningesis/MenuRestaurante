@@ -1,0 +1,8 @@
+.toolbar{
+    background-color: #303F9F;
+    color:white;
+    width: 100%;
+    padding: 18px 16px 18px 16px;
+    /*sombra con transparencia*/
+    box-shadow: 0px 5px 7px rgba(0,0,0, 0.3);
+}

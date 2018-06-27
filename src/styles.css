@@ -1,0 +1,9 @@
+body, html{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*no supera el 100% del tamaño*/
+*{
+    box-sizing: border-box;
+}
